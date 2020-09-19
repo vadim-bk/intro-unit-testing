@@ -1,0 +1,18 @@
+{
+  "name": "intro-unit-testing",
+  "version": "1.0.0",
+  "description": "Jest intro",
+  "main": "index.js",
+  "author": "vadim_bk",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.13",
+    "jest": "^26.4.2"
+  }
+}
